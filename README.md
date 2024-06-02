@@ -1,6 +1,6 @@
 # Olá, me chamo Victor Correia!
 
-Sou desenvolvedor fullstack | Experiência com UX| UI e resolução de problemas técnicos.
+Sou desenvolvedor fullstack | Experiência com UX | UI e resolução de problemas técnicos.
 
 ## My Skills
 
