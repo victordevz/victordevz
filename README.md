@@ -1,7 +1,5 @@
 # Olá, me chamo Victor Correia!
 
-Sou desenvolvedor fullstack | Experiência com UX | UI e resolução de problemas técnicos.
-
 ## Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
