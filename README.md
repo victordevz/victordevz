@@ -17,4 +17,7 @@ Sou desenvolvedor fullstack | Experiência com UX | UI e resolução de problema
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
-<img src="https://i.pinimg.com/736x/4c/14/93/4c14938bbb7d87554ca093022bcdd83f.jpg" alt="cat with oculos" width="300px"> <img src="https://i.pinimg.com/564x/f2/ae/59/f2ae595837d95106621ea59919d29a77.jpg" alt="cat with paper oculos" height="300px">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordevz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordevz&layout=compact&theme=radical)
+
+
