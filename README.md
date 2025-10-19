@@ -1,14 +1,14 @@
 ```js
-import Desenvolvedor from "victorCorreia";
+import Developer from "VictorCorreia";
 
-class SobreMim extends Desenvolvedor {
+class AboutMe extends Desenvolvedor {
   name = "Victor Correia";
   field = "Fullstack Developer";
   work = "Meets Tecnologia";
   location = "Remote Work";
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Developer {
   languages = ["Javascript & PHP"];
   libraries = ["React, TailwindCSS"];
   frameworks = ["NextJS, NodeJS, Vite, Zend Framework, Laravel"];
