@@ -18,3 +18,11 @@ class Skills extends Developer {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=👾%20PACMAN%20EATING%20MY%20COMMITS%20👾&fontSize=18&fontColor=8b5cf6&fontAlign=50&stroke=8b5cf6&strokeWidth=1" alt="Pacman"/>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dandanp3/Dandanp3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dandanp3/Dandanp3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dandanp3/Dandanp3/output/pacman-contribution-graph.svg">
+</picture>
