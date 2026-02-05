@@ -15,10 +15,6 @@ class Skills extends Developer {
 }
 ```
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=👾%20PACMAN%20EATING%20MY%20COMMITS%20👾&fontSize=18&fontColor=8b5cf6&fontAlign=50&stroke=8b5cf6&strokeWidth=1" alt="Pacman"/>
-</div>
-
 ###
 
 <picture>
