@@ -15,6 +15,9 @@ class Skills extends Developer {
 }
 ```
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victordevz&count_private=true&show_icons=true&theme=tokyonight)
+
+
 ###
 
 <picture>
