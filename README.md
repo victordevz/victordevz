@@ -14,14 +14,3 @@ class Skills extends Developer {
   frameworks = ["NextJS, NodeJS, Vite, Zend Framework, Laravel"];
 }
 ```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victordevz&count_private=true&show_icons=true&theme=tokyonight)
-
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dandanp3/Dandanp3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dandanp3/Dandanp3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dandanp3/Dandanp3/output/pacman-contribution-graph.svg">
-</picture>
